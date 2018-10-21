@@ -1,0 +1,9 @@
+Ceci est un projet rélisé à des fins pédagogiques par des étudiants en 1CP à l'Ecole Nationale Supérieure d'Informatique d'Alger dans le cadre du module ALSDD.
+Il est segmenté en deux parties :
+	--> Une première partie basée sur le langages "Z" proche du langage algorithmique et développé par le docteur D.E.Zegour (visiter https://zegour.esi.dz).
+	--> Une seconde partie dont le but est d'adapter le programme du langage "Z" vers le langage C et d'effectuer les modifications nécessaire pour son fonctionnement puis de l'automatiser à l'aide d'un fichier texte.
+
+Ce travail pratique vise à maitriser les structures de données en mémoire centrale, plus particulièrement : 
+	* Les arbres de recherche binaire (ABR)
+	* Les listes linéaires doublement chaînées (LLC BD)
+	* Les tableaux et tableaux de chaînes de caractères.
